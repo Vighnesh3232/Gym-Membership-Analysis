@@ -22,7 +22,7 @@ This project provides **interactive analytics** on gym memberships using **Table
 ## 🚀 How to Use This Project
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/Gym-Membership-Analytics.git
+   git clone https://github.com/Vighnesh3232/Gym-Membership-Analytics.git
    cd Gym-Membership-Analytics
 
 Open the Tableau Dashboard:
