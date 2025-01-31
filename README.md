@@ -1,4 +1,5 @@
 # 🏋️ Gym Membership Analytics Dashboard
+[Dashboard](https://public.tableau.com/views/GymMembership_17383300741010/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 📌 Overview
 This project provides **interactive analytics** on gym memberships using **Tableau**. The dashboard helps gym owners and managers analyze **member trends, gym usage, revenue insights, and retention rates**.
