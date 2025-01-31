@@ -35,3 +35,4 @@ Analyze the Dashboard:
 Explore different membership insights.
 Filter data by age, gender, or membership type.
 
+!(https://github.com/Vighnesh3232/Gym-Membership-Analysis/blob/main/Dashboard%201.png)
